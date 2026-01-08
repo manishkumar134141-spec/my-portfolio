@@ -248,7 +248,7 @@ export default function Home() {
             className="w-full bg-[#1a1a1a] border-2 border-[#ff4d29] text-[#ff4d29] font-bold text-xl md:text-3xl py-6 uppercase hover:bg-[#ff4d29] hover:text-black transition-all duration-300 flex items-center justify-center gap-4 relative z-20"
           >
             <Terminal size={32} />
-            [ GENERATE_SYSTEM_LOGS ]
+            [ DOWNLOAD RESUME  ]
           </button>
 
           {/* Thermal Receipt Animation */}
